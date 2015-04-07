@@ -1,0 +1,11 @@
+{
+  "name": "site-extension",
+  "description": "A Site Extension",
+  "private": true,
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "wixLongDescription": "A really long description"
+}
+
