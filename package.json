@@ -1,11 +1,11 @@
 {
-  "name": "site-extension",
-  "description": "A Site Extension",
+  "name": "blank",
+  "description": "Blank",
   "private": true,
   "dependencies": {
   },
   "devDependencies": {
   },
-  "wixLongDescription": "A really long description"
+  "wixLongDescription": "A blank code app to write or paste code into"
 }
 
