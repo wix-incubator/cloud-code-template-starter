@@ -1,13 +1,13 @@
-.starter-template {
-    padding: 20px 15px;
-    text-align: center;
-}
-
 body {
     background-color: black;
     color: white;
 }
 
-.lead {
+.container {
+    padding: 20px 15px;
+    text-align: center;
+}
+
+.container-text {
     font-size: 11pt;
 }
